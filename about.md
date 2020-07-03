@@ -17,12 +17,12 @@ Welcome to my website. Here is a little bit about myself.
 
 It's probably weird to see why I have programming languages on my study card, but it is because I am using them to work on separate projects. Additionally, learning different programming languages and paradigms is never a bad thing.
 
-For Data Cleaning and Kalman filterng, we will also have separate streams where we go over implementing them on real datasets.
+For Data Cleaning and Kalman filtering, we will also have separate streams where we go over implementing them on real datasets.
 
 # FAQ
 
 **What is this blog about?**
-We cover many topics on our Twitch streams. Many people cannot sit through 4-5 hours straight, and so I want to create a secondary place for them to get access to the information we covered if they want to. I won't turn everything into a blog, but anything important will be transposed into notes and uploaded here. Please see the study card for what we are currently studying, or see the categories to search what we have studied previously.
+We cover many topics on our Twitch streams. Most people don't have the time to sit through an entire 4-5 hour stream, and so I want to create a secondary place for them to get access to the information we covered if they want to. I won't turn everything into a blog, but anything important will be transposed into notes and uploaded here. Please see the study card for what we are currently studying, or see the categories to search what we have studied previously.
 
 **Will you upload code to GitHub?**
 Any code we complete on stream will be uploaded to my [github](https://github.com/Shahsquatch).
