@@ -8,6 +8,8 @@ snippet: 1
 date: 2020-07-02
 ---
 
+**Disclaimer: This post was written as notes for the Graph Theory series by William Fiset.**
+
 # Introduction
 
 Types of Graphs
