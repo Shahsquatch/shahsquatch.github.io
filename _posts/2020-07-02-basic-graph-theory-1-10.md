@@ -6,6 +6,7 @@ maths: 1
 toc: 1
 snippet: 1
 date: 2020-07-02
+comment: 1
 ---
 
 **Disclaimer: This post was written as notes for the Graph Theory series by William Fiset.**
