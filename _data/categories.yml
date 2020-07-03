@@ -1,0 +1,20 @@
+- slug: notetheme
+  name: NoteTheme
+- slug: it
+  name: Information Technology
+- slug: kalman-filtering
+  name: Kalman Filtering
+- slug: java
+  name: Java
+- slug: swift
+  name: Swift
+- slug: data-structures
+  name: Data Structures
+- slug: statistics
+  name: Statistics
+- slug: data-science
+  name: Data Science
+- slug: machine-learning
+  name: Machine Learning
+- slug: python
+  name: Python
