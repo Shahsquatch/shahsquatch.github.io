@@ -1,10 +1,10 @@
-<!-- ---
+---
 title: How to install notetheme
 categories: notetheme
 tags: [notetheme, jekyll, theme]
 maths: 1
 comment: 1
---- -->
+---
 
 In this tutorial, I suppose that you are new to [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/), just follow the ones you need and don't forget to leave a comment below.
 

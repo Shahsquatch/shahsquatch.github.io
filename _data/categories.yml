@@ -18,3 +18,14 @@
   name: Machine Learning
 - slug: python
   name: Python
+- slug: graph-theory-series
+  name: Graph Theory Series
+- slug: notes
+  name: Notes
+
+  # Currently used tags:
+  #   basic-programming
+  #   java
+  #   python
+  #   code-interview
+  #   trees

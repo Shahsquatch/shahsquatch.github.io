@@ -1,7 +1,7 @@
 ---
-title: Basic Graph Theory (Part I)
-categories: [data-structures, python]
-tags: [python, trees, code-interview]
+title: NOTES - Basic Graph Theory (Part 1)
+categories: [data-structures, python, notes]
+tags: [python, trees, code-interview, notes]
 maths: 1
 toc: 1
 snippet: 1

@@ -1,10 +1,10 @@
-<!-- ---
+---
 title: Welcome to NoteTheme
 categories: notetheme
 tags: [notetheme, jekyll, theme, welcome]
 maths: 1
 comment: 1
---- -->
+---
 
 This theme is folked from [Matjek theme](https://shawnteoh.github.io/matjek/) which is based on [materializecss](https://materializecss.com/) framework.
 

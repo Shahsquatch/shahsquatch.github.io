@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Shortcuts for editors
 categories: [it]
 tags: [jekyll,notetheme]
@@ -6,7 +6,7 @@ maths: 1
 toc: 1
 snippet: 1
 date: 2018-10-08
---- -->
+---
 
 This post is only for editors, please read other posts.
 
