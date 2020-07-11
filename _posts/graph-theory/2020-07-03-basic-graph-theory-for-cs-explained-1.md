@@ -99,13 +99,13 @@ If we have a graph that is a DAG, and whose underlying graph is a tree (meaning 
 ## Arborescence
 If we have a rooted polytree, we name it a **directed rooted tree**. These represent trees we generally encounter in CS, for example binary trees. When we draw binary trees, we don't generally draw the directed edges to signify direction, but they are there implicity.
 
-The direction that we assign the edges will alter how we define the tree. When all the edges are pointing away from the root node the directed rooted tree is known as an **aborescence** or **out-tree**. When they are all pointing towards the root node, the directed rooted tree is known as an **anti-aborescence** of **in-tree**.
+The direction that we assign the edges will alter how we define the tree. When all the edges are pointing away from the root node the directed rooted tree is known as an **arborescence** or **out-tree**. When they are all pointing towards the root node, the directed rooted tree is known as an **anti-arborescence** of **in-tree**.
 
-![picture 6](../../images/372326bc019f9573957c979adb96bc145cc3e64e34fae17c9457ca8a0345f71b.png)  
+![picture 8](../../images/d0efe363ef792c7bd53be0bb5bfe61c04352c1362af49c4a3c052a555c8d28ff.png)  
 
 Keep in mind that in a directed rooted tree, all edges have to be pointing away from or towards the root node simultaneously. You cannot have any edges pointing against the "natural direction".
 
-Also note from this definition, that every aborescence is a DAG, but not every DAG is an aborescence.
+Also note from this definition, that every arborescence is a DAG, but not every DAG is an arborescence.
 
 ## Bipartite Graphs
 Suppose you are a data scientist with the NFL, and you are mapping which players have played with which team. You set about showing all of these relationships on a graph. For simplicity, I have given an example with 5 players (blue) and 5 teams (red). Note that players may have played for multiple teams.
